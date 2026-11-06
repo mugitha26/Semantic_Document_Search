@@ -1,0 +1,76 @@
+query_id,query,document,similarity_score
+Q1,Why is student attendance important?,document11,0.768
+Q1,Why is student attendance important?,Document1,0.5623
+Q1,Why is student attendance important?,document16,0.4114
+Q1,Why is student attendance important?,Document10,0.3478
+Q1,Why is student attendance important?,document18,0.3379
+Q2,How do online examinations work?,document12,0.8326
+Q2,How do online examinations work?,Document2,0.5499
+Q2,How do online examinations work?,document18,0.4377
+Q2,How do online examinations work?,Document10,0.3553
+Q2,How do online examinations work?,Document7,0.3503
+Q3,How can students submit assignments online?,document13,0.6345
+Q3,How can students submit assignments online?,Document2,0.5298
+Q3,How can students submit assignments online?,document12,0.4971
+Q3,How can students submit assignments online?,Document7,0.3972
+Q3,How can students submit assignments online?,Document6,0.3882
+Q4,What is a learning management system?,document14,0.8152
+Q4,What is a learning management system?,document15,0.4875
+Q4,What is a learning management system?,document13,0.4673
+Q4,What is a learning management system?,Document8,0.4296
+Q4,What is a learning management system?,document11,0.4293
+Q5,How does group learning improve teamwork?,document15,0.7413
+Q5,How does group learning improve teamwork?,Document8,0.3558
+Q5,How does group learning improve teamwork?,document13,0.3348
+Q5,How does group learning improve teamwork?,document16,0.2945
+Q5,How does group learning improve teamwork?,document19,0.2787
+Q6,Why should students prepare a study timetable?,document16,0.7329
+Q6,Why should students prepare a study timetable?,document11,0.5015
+Q6,Why should students prepare a study timetable?,Document1,0.4059
+Q6,Why should students prepare a study timetable?,Document8,0.3919
+Q6,Why should students prepare a study timetable?,document18,0.3876
+Q7,How do educational videos help students?,document17,0.8228
+Q7,How do educational videos help students?,Document10,0.4822
+Q7,How do educational videos help students?,Document2,0.4633
+Q7,How do educational videos help students?,Document8,0.4561
+Q7,How do educational videos help students?,Document1,0.4448
+Q8,How do teachers evaluate student performance?,document18,0.6004
+Q8,How do teachers evaluate student performance?,document19,0.5444
+Q8,How do teachers evaluate student performance?,document11,0.3672
+Q8,How do teachers evaluate student performance?,Document8,0.3605
+Q8,How do teachers evaluate student performance?,Document1,0.3578
+Q9,How does teacher feedback help students?,document19,0.8452
+Q9,How does teacher feedback help students?,document18,0.4743
+Q9,How does teacher feedback help students?,document17,0.3911
+Q9,How does teacher feedback help students?,Document8,0.3786
+Q9,How does teacher feedback help students?,document13,0.3652
+Q10,What are the advantages of digital libraries?,document20,0.6737
+Q10,What are the advantages of digital libraries?,Document9,0.6098
+Q10,What are the advantages of digital libraries?,Document6,0.4586
+Q10,What are the advantages of digital libraries?,Document10,0.4501
+Q10,What are the advantages of digital libraries?,Document2,0.3444
+Q11,How can teachers monitor class participation?,document11,0.5045
+Q11,How can teachers monitor class participation?,document13,0.4017
+Q11,How can teachers monitor class participation?,document19,0.3871
+Q11,How can teachers monitor class participation?,document18,0.3712
+Q11,How can teachers monitor class participation?,document16,0.3252
+Q12,What are the benefits of online learning platforms?,Document2,0.6874
+Q12,What are the benefits of online learning platforms?,Document10,0.5893
+Q12,What are the benefits of online learning platforms?,Document7,0.5836
+Q12,What are the benefits of online learning platforms?,document14,0.4882
+Q12,What are the benefits of online learning platforms?,Document8,0.4814
+Q13,How can students improve their study habits?,document16,0.6051
+Q13,How can students improve their study habits?,Document8,0.4566
+Q13,How can students improve their study habits?,document11,0.443
+Q13,How can students improve their study habits?,document18,0.4138
+Q13,How can students improve their study habits?,Document2,0.4067
+Q14,Why is student assessment necessary?,document18,0.7968
+Q14,Why is student assessment necessary?,Document1,0.5195
+Q14,Why is student assessment necessary?,Document8,0.4565
+Q14,Why is student assessment necessary?,document11,0.439
+Q14,Why is student assessment necessary?,document16,0.4349
+Q15,Where can students find electronic study materials?,Document2,0.5157
+Q15,Where can students find electronic study materials?,document20,0.4709
+Q15,Where can students find electronic study materials?,Document10,0.457
+Q15,Where can students find electronic study materials?,document12,0.4344
+Q15,Where can students find electronic study materials?,Document9,0.3943

@@ -1,0 +1,305 @@
+query_id,query,method,rank,document,content,similarity_score
+Q1,Why is student attendance important?,Semantic Search,1,document11,"Student Attendance Management
+
+Student attendance is an important part of educational institutions. Attendance records help teachers monitor student participation in classes. Regular attendance improves learning and academic performance. Digital attendance systems save time and reduce manual errors.",0.768
+Q1,Why is student attendance important?,Semantic Search,2,Document1,"Education is important for every student. It helps students develop knowledge, skills, confidence, and good values. Education prepares students for their future careers and helps them become responsible citizens.",0.5623
+Q1,Why is student attendance important?,Semantic Search,3,document16,"Study Planning
+
+Study planning helps students organize their learning activities. A study timetable allows students to divide time between different subjects. Regular revision improves memory and understanding. Students should set learning goals, take breaks and complete important tasks on time.",0.4114
+Q1,Why is student attendance important?,Semantic Search,4,Document10,"Technology improves education through smart classrooms, online courses, digital libraries, educational applications, and virtual laboratories. It makes learning more accessible and interactive for students.",0.3478
+Q1,Why is student attendance important?,Semantic Search,5,document18,"Student Assessment
+
+Student assessment measures knowledge, skills and academic progress. Teachers use tests, assignments, projects and examinations to evaluate students. Assessment helps identify learning difficulties and areas that need improvement.",0.3379
+Q1,Why is student attendance important?,Keyword Search,1,document11,"Student Attendance Management
+
+Student attendance is an important part of educational institutions. Attendance records help teachers monitor student participation in classes. Regular attendance improves learning and academic performance. Digital attendance systems save time and reduce manual errors.",
+Q1,Why is student attendance important?,Keyword Search,2,document14,"Learning Management System
+
+A Learning Management System is a digital platform used to manage educational activities. Teachers can upload study materials, videos, assignments and quizzes. Students can access learning resources at any time. LMS platforms support online learning and student progress tracking.",
+Q1,Why is student attendance important?,Keyword Search,3,Document1,"Education is important for every student. It helps students develop knowledge, skills, confidence, and good values. Education prepares students for their future careers and helps them become responsible citizens.",
+Q1,Why is student attendance important?,Keyword Search,4,Document3,"Computer science is the study of computers, programming, algorithms, and software development. It helps students understand how computer systems work and how technology solves real-world problems.",
+Q1,Why is student attendance important?,Keyword Search,5,Document4,"Artificial Intelligence is a technology that enables machines to perform tasks that usually require human intelligence. AI is used in education, healthcare, transportation, business, and many other fields.",
+Q2,How do online examinations work?,Semantic Search,1,document12,"Online Examination System
+
+Online examination systems allow students to write exams using computers or mobile devices. These systems reduce paperwork and make evaluation easier. Students can attend examinations from different locations. Online exams provide automatic result generation and secure assessment features.",0.8326
+Q2,How do online examinations work?,Semantic Search,2,Document2,"Online learning allows students to study using computers, mobile phones, and the internet. Students can attend virtual classes, watch recorded lectures, and access digital learning materials from anywhere.",0.5499
+Q2,How do online examinations work?,Semantic Search,3,document18,"Student Assessment
+
+Student assessment measures knowledge, skills and academic progress. Teachers use tests, assignments, projects and examinations to evaluate students. Assessment helps identify learning difficulties and areas that need improvement.",0.4377
+Q2,How do online examinations work?,Semantic Search,4,Document10,"Technology improves education through smart classrooms, online courses, digital libraries, educational applications, and virtual laboratories. It makes learning more accessible and interactive for students.",0.3553
+Q2,How do online examinations work?,Semantic Search,5,Document7,"Distance learning allows students to continue their education without attending a physical classroom. It uses online platforms, video lessons, digital assignments, and virtual communication tools.",0.3503
+Q2,How do online examinations work?,Keyword Search,1,document12,"Online Examination System
+
+Online examination systems allow students to write exams using computers or mobile devices. These systems reduce paperwork and make evaluation easier. Students can attend examinations from different locations. Online exams provide automatic result generation and secure assessment features.",
+Q2,How do online examinations work?,Keyword Search,2,Document10,"Technology improves education through smart classrooms, online courses, digital libraries, educational applications, and virtual laboratories. It makes learning more accessible and interactive for students.",
+Q2,How do online examinations work?,Keyword Search,3,Document2,"Online learning allows students to study using computers, mobile phones, and the internet. Students can attend virtual classes, watch recorded lectures, and access digital learning materials from anywhere.",
+Q2,How do online examinations work?,Keyword Search,4,Document3,"Computer science is the study of computers, programming, algorithms, and software development. It helps students understand how computer systems work and how technology solves real-world problems.",
+Q2,How do online examinations work?,Keyword Search,5,Document7,"Distance learning allows students to continue their education without attending a physical classroom. It uses online platforms, video lessons, digital assignments, and virtual communication tools.",
+Q3,How can students submit assignments online?,Semantic Search,1,document13,"Assignment Management
+
+Assignment management helps teachers create and distribute academic tasks to students. Students can submit assignments through online platforms. Teachers can review submissions, provide marks and give feedback. Digital assignment management improves communication and helps students complete their work on time.",0.6345
+Q3,How can students submit assignments online?,Semantic Search,2,Document2,"Online learning allows students to study using computers, mobile phones, and the internet. Students can attend virtual classes, watch recorded lectures, and access digital learning materials from anywhere.",0.5298
+Q3,How can students submit assignments online?,Semantic Search,3,document12,"Online Examination System
+
+Online examination systems allow students to write exams using computers or mobile devices. These systems reduce paperwork and make evaluation easier. Students can attend examinations from different locations. Online exams provide automatic result generation and secure assessment features.",0.4971
+Q3,How can students submit assignments online?,Semantic Search,4,Document7,"Distance learning allows students to continue their education without attending a physical classroom. It uses online platforms, video lessons, digital assignments, and virtual communication tools.",0.3972
+Q3,How can students submit assignments online?,Semantic Search,5,Document6,"Digital literacy means the ability to use digital devices, software, and the internet effectively. Students need digital literacy to find information, communicate online, and participate in modern education.",0.3882
+Q3,How can students submit assignments online?,Keyword Search,1,document13,"Assignment Management
+
+Assignment management helps teachers create and distribute academic tasks to students. Students can submit assignments through online platforms. Teachers can review submissions, provide marks and give feedback. Digital assignment management improves communication and helps students complete their work on time.",
+Q3,How can students submit assignments online?,Keyword Search,2,document14,"Learning Management System
+
+A Learning Management System is a digital platform used to manage educational activities. Teachers can upload study materials, videos, assignments and quizzes. Students can access learning resources at any time. LMS platforms support online learning and student progress tracking.",
+Q3,How can students submit assignments online?,Keyword Search,3,Document2,"Online learning allows students to study using computers, mobile phones, and the internet. Students can attend virtual classes, watch recorded lectures, and access digital learning materials from anywhere.",
+Q3,How can students submit assignments online?,Keyword Search,4,Document3,"Computer science is the study of computers, programming, algorithms, and software development. It helps students understand how computer systems work and how technology solves real-world problems.",
+Q3,How can students submit assignments online?,Keyword Search,5,document12,"Online Examination System
+
+Online examination systems allow students to write exams using computers or mobile devices. These systems reduce paperwork and make evaluation easier. Students can attend examinations from different locations. Online exams provide automatic result generation and secure assessment features.",
+Q4,What is a learning management system?,Semantic Search,1,document14,"Learning Management System
+
+A Learning Management System is a digital platform used to manage educational activities. Teachers can upload study materials, videos, assignments and quizzes. Students can access learning resources at any time. LMS platforms support online learning and student progress tracking.",0.8152
+Q4,What is a learning management system?,Semantic Search,2,document15,"Group Learning
+
+Group learning is a method where students work together to understand topics and complete activities. It improves communication, teamwork and problem-solving skills. Students can share ideas, discuss concepts and learn from one another.",0.4875
+Q4,What is a learning management system?,Semantic Search,3,document13,"Assignment Management
+
+Assignment management helps teachers create and distribute academic tasks to students. Students can submit assignments through online platforms. Teachers can review submissions, provide marks and give feedback. Digital assignment management improves communication and helps students complete their work on time.",0.4673
+Q4,What is a learning management system?,Semantic Search,4,Document8,"Practical learning helps students understand concepts through experiments, projects, laboratory activities, and real-world applications. It improves creativity, confidence, and technical skills.",0.4296
+Q4,What is a learning management system?,Semantic Search,5,document11,"Student Attendance Management
+
+Student attendance is an important part of educational institutions. Attendance records help teachers monitor student participation in classes. Regular attendance improves learning and academic performance. Digital attendance systems save time and reduce manual errors.",0.4293
+Q4,What is a learning management system?,Keyword Search,1,document14,"Learning Management System
+
+A Learning Management System is a digital platform used to manage educational activities. Teachers can upload study materials, videos, assignments and quizzes. Students can access learning resources at any time. LMS platforms support online learning and student progress tracking.",
+Q4,What is a learning management system?,Keyword Search,2,document11,"Student Attendance Management
+
+Student attendance is an important part of educational institutions. Attendance records help teachers monitor student participation in classes. Regular attendance improves learning and academic performance. Digital attendance systems save time and reduce manual errors.",
+Q4,What is a learning management system?,Keyword Search,3,document15,"Group Learning
+
+Group learning is a method where students work together to understand topics and complete activities. It improves communication, teamwork and problem-solving skills. Students can share ideas, discuss concepts and learn from one another.",
+Q4,What is a learning management system?,Keyword Search,4,Document4,"Artificial Intelligence is a technology that enables machines to perform tasks that usually require human intelligence. AI is used in education, healthcare, transportation, business, and many other fields.",
+Q4,What is a learning management system?,Keyword Search,5,Document7,"Distance learning allows students to continue their education without attending a physical classroom. It uses online platforms, video lessons, digital assignments, and virtual communication tools.",
+Q5,How does group learning improve teamwork?,Semantic Search,1,document15,"Group Learning
+
+Group learning is a method where students work together to understand topics and complete activities. It improves communication, teamwork and problem-solving skills. Students can share ideas, discuss concepts and learn from one another.",0.7413
+Q5,How does group learning improve teamwork?,Semantic Search,2,Document8,"Practical learning helps students understand concepts through experiments, projects, laboratory activities, and real-world applications. It improves creativity, confidence, and technical skills.",0.3558
+Q5,How does group learning improve teamwork?,Semantic Search,3,document13,"Assignment Management
+
+Assignment management helps teachers create and distribute academic tasks to students. Students can submit assignments through online platforms. Teachers can review submissions, provide marks and give feedback. Digital assignment management improves communication and helps students complete their work on time.",0.3348
+Q5,How does group learning improve teamwork?,Semantic Search,4,document16,"Study Planning
+
+Study planning helps students organize their learning activities. A study timetable allows students to divide time between different subjects. Regular revision improves memory and understanding. Students should set learning goals, take breaks and complete important tasks on time.",0.2945
+Q5,How does group learning improve teamwork?,Semantic Search,5,document19,"Teacher Feedback
+
+Teacher feedback helps students understand their strengths and weaknesses. Constructive feedback guides students to improve their academic performance. Teachers can provide feedback through comments, marks and discussions. Regular feedback encourages students to correct mistakes.",0.2787
+Q5,How does group learning improve teamwork?,Keyword Search,1,document15,"Group Learning
+
+Group learning is a method where students work together to understand topics and complete activities. It improves communication, teamwork and problem-solving skills. Students can share ideas, discuss concepts and learn from one another.",
+Q5,How does group learning improve teamwork?,Keyword Search,2,Document10,"Technology improves education through smart classrooms, online courses, digital libraries, educational applications, and virtual laboratories. It makes learning more accessible and interactive for students.",
+Q5,How does group learning improve teamwork?,Keyword Search,3,Document2,"Online learning allows students to study using computers, mobile phones, and the internet. Students can attend virtual classes, watch recorded lectures, and access digital learning materials from anywhere.",
+Q5,How does group learning improve teamwork?,Keyword Search,4,Document3,"Computer science is the study of computers, programming, algorithms, and software development. It helps students understand how computer systems work and how technology solves real-world problems.",
+Q5,How does group learning improve teamwork?,Keyword Search,5,Document7,"Distance learning allows students to continue their education without attending a physical classroom. It uses online platforms, video lessons, digital assignments, and virtual communication tools.",
+Q6,Why should students prepare a study timetable?,Semantic Search,1,document16,"Study Planning
+
+Study planning helps students organize their learning activities. A study timetable allows students to divide time between different subjects. Regular revision improves memory and understanding. Students should set learning goals, take breaks and complete important tasks on time.",0.7329
+Q6,Why should students prepare a study timetable?,Semantic Search,2,document11,"Student Attendance Management
+
+Student attendance is an important part of educational institutions. Attendance records help teachers monitor student participation in classes. Regular attendance improves learning and academic performance. Digital attendance systems save time and reduce manual errors.",0.5015
+Q6,Why should students prepare a study timetable?,Semantic Search,3,Document1,"Education is important for every student. It helps students develop knowledge, skills, confidence, and good values. Education prepares students for their future careers and helps them become responsible citizens.",0.4059
+Q6,Why should students prepare a study timetable?,Semantic Search,4,Document8,"Practical learning helps students understand concepts through experiments, projects, laboratory activities, and real-world applications. It improves creativity, confidence, and technical skills.",0.3919
+Q6,Why should students prepare a study timetable?,Semantic Search,5,document18,"Student Assessment
+
+Student assessment measures knowledge, skills and academic progress. Teachers use tests, assignments, projects and examinations to evaluate students. Assessment helps identify learning difficulties and areas that need improvement.",0.3876
+Q6,Why should students prepare a study timetable?,Keyword Search,1,document16,"Study Planning
+
+Study planning helps students organize their learning activities. A study timetable allows students to divide time between different subjects. Regular revision improves memory and understanding. Students should set learning goals, take breaks and complete important tasks on time.",
+Q6,Why should students prepare a study timetable?,Keyword Search,2,document14,"Learning Management System
+
+A Learning Management System is a digital platform used to manage educational activities. Teachers can upload study materials, videos, assignments and quizzes. Students can access learning resources at any time. LMS platforms support online learning and student progress tracking.",
+Q6,Why should students prepare a study timetable?,Keyword Search,3,Document2,"Online learning allows students to study using computers, mobile phones, and the internet. Students can attend virtual classes, watch recorded lectures, and access digital learning materials from anywhere.",
+Q6,Why should students prepare a study timetable?,Keyword Search,4,Document3,"Computer science is the study of computers, programming, algorithms, and software development. It helps students understand how computer systems work and how technology solves real-world problems.",
+Q6,Why should students prepare a study timetable?,Keyword Search,5,Document7,"Distance learning allows students to continue their education without attending a physical classroom. It uses online platforms, video lessons, digital assignments, and virtual communication tools.",
+Q7,How do educational videos help students?,Semantic Search,1,document17,"Educational Videos
+
+Educational videos help students understand difficult concepts through visual explanations. Videos can include animations, demonstrations and practical examples. Students can watch lessons repeatedly and learn at their own pace. Educational videos support classroom teaching and online learning.",0.8228
+Q7,How do educational videos help students?,Semantic Search,2,Document10,"Technology improves education through smart classrooms, online courses, digital libraries, educational applications, and virtual laboratories. It makes learning more accessible and interactive for students.",0.4822
+Q7,How do educational videos help students?,Semantic Search,3,Document2,"Online learning allows students to study using computers, mobile phones, and the internet. Students can attend virtual classes, watch recorded lectures, and access digital learning materials from anywhere.",0.4633
+Q7,How do educational videos help students?,Semantic Search,4,Document8,"Practical learning helps students understand concepts through experiments, projects, laboratory activities, and real-world applications. It improves creativity, confidence, and technical skills.",0.4561
+Q7,How do educational videos help students?,Semantic Search,5,Document1,"Education is important for every student. It helps students develop knowledge, skills, confidence, and good values. Education prepares students for their future careers and helps them become responsible citizens.",0.4448
+Q7,How do educational videos help students?,Keyword Search,1,document17,"Educational Videos
+
+Educational videos help students understand difficult concepts through visual explanations. Videos can include animations, demonstrations and practical examples. Students can watch lessons repeatedly and learn at their own pace. Educational videos support classroom teaching and online learning.",
+Q7,How do educational videos help students?,Keyword Search,2,document11,"Student Attendance Management
+
+Student attendance is an important part of educational institutions. Attendance records help teachers monitor student participation in classes. Regular attendance improves learning and academic performance. Digital attendance systems save time and reduce manual errors.",
+Q7,How do educational videos help students?,Keyword Search,3,Document10,"Technology improves education through smart classrooms, online courses, digital libraries, educational applications, and virtual laboratories. It makes learning more accessible and interactive for students.",
+Q7,How do educational videos help students?,Keyword Search,4,Document3,"Computer science is the study of computers, programming, algorithms, and software development. It helps students understand how computer systems work and how technology solves real-world problems.",
+Q7,How do educational videos help students?,Keyword Search,5,document14,"Learning Management System
+
+A Learning Management System is a digital platform used to manage educational activities. Teachers can upload study materials, videos, assignments and quizzes. Students can access learning resources at any time. LMS platforms support online learning and student progress tracking.",
+Q8,How do teachers evaluate student performance?,Semantic Search,1,document18,"Student Assessment
+
+Student assessment measures knowledge, skills and academic progress. Teachers use tests, assignments, projects and examinations to evaluate students. Assessment helps identify learning difficulties and areas that need improvement.",0.6004
+Q8,How do teachers evaluate student performance?,Semantic Search,2,document19,"Teacher Feedback
+
+Teacher feedback helps students understand their strengths and weaknesses. Constructive feedback guides students to improve their academic performance. Teachers can provide feedback through comments, marks and discussions. Regular feedback encourages students to correct mistakes.",0.5444
+Q8,How do teachers evaluate student performance?,Semantic Search,3,document11,"Student Attendance Management
+
+Student attendance is an important part of educational institutions. Attendance records help teachers monitor student participation in classes. Regular attendance improves learning and academic performance. Digital attendance systems save time and reduce manual errors.",0.3672
+Q8,How do teachers evaluate student performance?,Semantic Search,4,Document8,"Practical learning helps students understand concepts through experiments, projects, laboratory activities, and real-world applications. It improves creativity, confidence, and technical skills.",0.3605
+Q8,How do teachers evaluate student performance?,Semantic Search,5,Document1,"Education is important for every student. It helps students develop knowledge, skills, confidence, and good values. Education prepares students for their future careers and helps them become responsible citizens.",0.3578
+Q8,How do teachers evaluate student performance?,Keyword Search,1,document18,"Student Assessment
+
+Student assessment measures knowledge, skills and academic progress. Teachers use tests, assignments, projects and examinations to evaluate students. Assessment helps identify learning difficulties and areas that need improvement.",
+Q8,How do teachers evaluate student performance?,Keyword Search,2,document11,"Student Attendance Management
+
+Student attendance is an important part of educational institutions. Attendance records help teachers monitor student participation in classes. Regular attendance improves learning and academic performance. Digital attendance systems save time and reduce manual errors.",
+Q8,How do teachers evaluate student performance?,Keyword Search,3,document14,"Learning Management System
+
+A Learning Management System is a digital platform used to manage educational activities. Teachers can upload study materials, videos, assignments and quizzes. Students can access learning resources at any time. LMS platforms support online learning and student progress tracking.",
+Q8,How do teachers evaluate student performance?,Keyword Search,4,Document3,"Computer science is the study of computers, programming, algorithms, and software development. It helps students understand how computer systems work and how technology solves real-world problems.",
+Q8,How do teachers evaluate student performance?,Keyword Search,5,document13,"Assignment Management
+
+Assignment management helps teachers create and distribute academic tasks to students. Students can submit assignments through online platforms. Teachers can review submissions, provide marks and give feedback. Digital assignment management improves communication and helps students complete their work on time.",
+Q9,How does teacher feedback help students?,Semantic Search,1,document19,"Teacher Feedback
+
+Teacher feedback helps students understand their strengths and weaknesses. Constructive feedback guides students to improve their academic performance. Teachers can provide feedback through comments, marks and discussions. Regular feedback encourages students to correct mistakes.",0.8452
+Q9,How does teacher feedback help students?,Semantic Search,2,document18,"Student Assessment
+
+Student assessment measures knowledge, skills and academic progress. Teachers use tests, assignments, projects and examinations to evaluate students. Assessment helps identify learning difficulties and areas that need improvement.",0.4743
+Q9,How does teacher feedback help students?,Semantic Search,3,document17,"Educational Videos
+
+Educational videos help students understand difficult concepts through visual explanations. Videos can include animations, demonstrations and practical examples. Students can watch lessons repeatedly and learn at their own pace. Educational videos support classroom teaching and online learning.",0.3911
+Q9,How does teacher feedback help students?,Semantic Search,4,Document8,"Practical learning helps students understand concepts through experiments, projects, laboratory activities, and real-world applications. It improves creativity, confidence, and technical skills.",0.3786
+Q9,How does teacher feedback help students?,Semantic Search,5,document13,"Assignment Management
+
+Assignment management helps teachers create and distribute academic tasks to students. Students can submit assignments through online platforms. Teachers can review submissions, provide marks and give feedback. Digital assignment management improves communication and helps students complete their work on time.",0.3652
+Q9,How does teacher feedback help students?,Keyword Search,1,document19,"Teacher Feedback
+
+Teacher feedback helps students understand their strengths and weaknesses. Constructive feedback guides students to improve their academic performance. Teachers can provide feedback through comments, marks and discussions. Regular feedback encourages students to correct mistakes.",
+Q9,How does teacher feedback help students?,Keyword Search,2,Document3,"Computer science is the study of computers, programming, algorithms, and software development. It helps students understand how computer systems work and how technology solves real-world problems.",
+Q9,How does teacher feedback help students?,Keyword Search,3,document11,"Student Attendance Management
+
+Student attendance is an important part of educational institutions. Attendance records help teachers monitor student participation in classes. Regular attendance improves learning and academic performance. Digital attendance systems save time and reduce manual errors.",
+Q9,How does teacher feedback help students?,Keyword Search,4,document17,"Educational Videos
+
+Educational videos help students understand difficult concepts through visual explanations. Videos can include animations, demonstrations and practical examples. Students can watch lessons repeatedly and learn at their own pace. Educational videos support classroom teaching and online learning.",
+Q9,How does teacher feedback help students?,Keyword Search,5,Document1,"Education is important for every student. It helps students develop knowledge, skills, confidence, and good values. Education prepares students for their future careers and helps them become responsible citizens.",
+Q10,What are the advantages of digital libraries?,Semantic Search,1,document20,"Digital Libraries
+
+Digital libraries provide access to electronic books, research papers, journals and educational resources. Students can search and read learning materials using computers and mobile devices. Digital libraries support research and independent learning.",0.6737
+Q10,What are the advantages of digital libraries?,Semantic Search,2,Document9,"Libraries provide students with books, journals, newspapers, and digital resources. A library supports independent learning, research activities, reading habits, and academic development.",0.6098
+Q10,What are the advantages of digital libraries?,Semantic Search,3,Document6,"Digital literacy means the ability to use digital devices, software, and the internet effectively. Students need digital literacy to find information, communicate online, and participate in modern education.",0.4586
+Q10,What are the advantages of digital libraries?,Semantic Search,4,Document10,"Technology improves education through smart classrooms, online courses, digital libraries, educational applications, and virtual laboratories. It makes learning more accessible and interactive for students.",0.4501
+Q10,What are the advantages of digital libraries?,Semantic Search,5,Document2,"Online learning allows students to study using computers, mobile phones, and the internet. Students can attend virtual classes, watch recorded lectures, and access digital learning materials from anywhere.",0.3444
+Q10,What are the advantages of digital libraries?,Keyword Search,1,Document2,"Online learning allows students to study using computers, mobile phones, and the internet. Students can attend virtual classes, watch recorded lectures, and access digital learning materials from anywhere.",
+Q10,What are the advantages of digital libraries?,Keyword Search,2,Document3,"Computer science is the study of computers, programming, algorithms, and software development. It helps students understand how computer systems work and how technology solves real-world problems.",
+Q10,What are the advantages of digital libraries?,Keyword Search,3,Document5,"Programming is the process of writing instructions for computers. Popular programming languages include Python, Java, C, and JavaScript. Programming helps students develop logical thinking and problem-solving skills.",
+Q10,What are the advantages of digital libraries?,Keyword Search,4,Document6,"Digital literacy means the ability to use digital devices, software, and the internet effectively. Students need digital literacy to find information, communicate online, and participate in modern education.",
+Q10,What are the advantages of digital libraries?,Keyword Search,5,document11,"Student Attendance Management
+
+Student attendance is an important part of educational institutions. Attendance records help teachers monitor student participation in classes. Regular attendance improves learning and academic performance. Digital attendance systems save time and reduce manual errors.",
+Q11,How can teachers monitor class participation?,Semantic Search,1,document11,"Student Attendance Management
+
+Student attendance is an important part of educational institutions. Attendance records help teachers monitor student participation in classes. Regular attendance improves learning and academic performance. Digital attendance systems save time and reduce manual errors.",0.5045
+Q11,How can teachers monitor class participation?,Semantic Search,2,document13,"Assignment Management
+
+Assignment management helps teachers create and distribute academic tasks to students. Students can submit assignments through online platforms. Teachers can review submissions, provide marks and give feedback. Digital assignment management improves communication and helps students complete their work on time.",0.4017
+Q11,How can teachers monitor class participation?,Semantic Search,3,document19,"Teacher Feedback
+
+Teacher feedback helps students understand their strengths and weaknesses. Constructive feedback guides students to improve their academic performance. Teachers can provide feedback through comments, marks and discussions. Regular feedback encourages students to correct mistakes.",0.3871
+Q11,How can teachers monitor class participation?,Semantic Search,4,document18,"Student Assessment
+
+Student assessment measures knowledge, skills and academic progress. Teachers use tests, assignments, projects and examinations to evaluate students. Assessment helps identify learning difficulties and areas that need improvement.",0.3712
+Q11,How can teachers monitor class participation?,Semantic Search,5,document16,"Study Planning
+
+Study planning helps students organize their learning activities. A study timetable allows students to divide time between different subjects. Regular revision improves memory and understanding. Students should set learning goals, take breaks and complete important tasks on time.",0.3252
+Q11,How can teachers monitor class participation?,Keyword Search,1,document11,"Student Attendance Management
+
+Student attendance is an important part of educational institutions. Attendance records help teachers monitor student participation in classes. Regular attendance improves learning and academic performance. Digital attendance systems save time and reduce manual errors.",
+Q11,How can teachers monitor class participation?,Keyword Search,2,document13,"Assignment Management
+
+Assignment management helps teachers create and distribute academic tasks to students. Students can submit assignments through online platforms. Teachers can review submissions, provide marks and give feedback. Digital assignment management improves communication and helps students complete their work on time.",
+Q11,How can teachers monitor class participation?,Keyword Search,3,document14,"Learning Management System
+
+A Learning Management System is a digital platform used to manage educational activities. Teachers can upload study materials, videos, assignments and quizzes. Students can access learning resources at any time. LMS platforms support online learning and student progress tracking.",
+Q11,How can teachers monitor class participation?,Keyword Search,4,document19,"Teacher Feedback
+
+Teacher feedback helps students understand their strengths and weaknesses. Constructive feedback guides students to improve their academic performance. Teachers can provide feedback through comments, marks and discussions. Regular feedback encourages students to correct mistakes.",
+Q11,How can teachers monitor class participation?,Keyword Search,5,Document2,"Online learning allows students to study using computers, mobile phones, and the internet. Students can attend virtual classes, watch recorded lectures, and access digital learning materials from anywhere.",
+Q12,What are the benefits of online learning platforms?,Semantic Search,1,Document2,"Online learning allows students to study using computers, mobile phones, and the internet. Students can attend virtual classes, watch recorded lectures, and access digital learning materials from anywhere.",0.6874
+Q12,What are the benefits of online learning platforms?,Semantic Search,2,Document10,"Technology improves education through smart classrooms, online courses, digital libraries, educational applications, and virtual laboratories. It makes learning more accessible and interactive for students.",0.5893
+Q12,What are the benefits of online learning platforms?,Semantic Search,3,Document7,"Distance learning allows students to continue their education without attending a physical classroom. It uses online platforms, video lessons, digital assignments, and virtual communication tools.",0.5836
+Q12,What are the benefits of online learning platforms?,Semantic Search,4,document14,"Learning Management System
+
+A Learning Management System is a digital platform used to manage educational activities. Teachers can upload study materials, videos, assignments and quizzes. Students can access learning resources at any time. LMS platforms support online learning and student progress tracking.",0.4882
+Q12,What are the benefits of online learning platforms?,Semantic Search,5,Document8,"Practical learning helps students understand concepts through experiments, projects, laboratory activities, and real-world applications. It improves creativity, confidence, and technical skills.",0.4814
+Q12,What are the benefits of online learning platforms?,Keyword Search,1,Document2,"Online learning allows students to study using computers, mobile phones, and the internet. Students can attend virtual classes, watch recorded lectures, and access digital learning materials from anywhere.",
+Q12,What are the benefits of online learning platforms?,Keyword Search,2,Document10,"Technology improves education through smart classrooms, online courses, digital libraries, educational applications, and virtual laboratories. It makes learning more accessible and interactive for students.",
+Q12,What are the benefits of online learning platforms?,Keyword Search,3,Document3,"Computer science is the study of computers, programming, algorithms, and software development. It helps students understand how computer systems work and how technology solves real-world problems.",
+Q12,What are the benefits of online learning platforms?,Keyword Search,4,Document5,"Programming is the process of writing instructions for computers. Popular programming languages include Python, Java, C, and JavaScript. Programming helps students develop logical thinking and problem-solving skills.",
+Q12,What are the benefits of online learning platforms?,Keyword Search,5,Document7,"Distance learning allows students to continue their education without attending a physical classroom. It uses online platforms, video lessons, digital assignments, and virtual communication tools.",
+Q13,How can students improve their study habits?,Semantic Search,1,document16,"Study Planning
+
+Study planning helps students organize their learning activities. A study timetable allows students to divide time between different subjects. Regular revision improves memory and understanding. Students should set learning goals, take breaks and complete important tasks on time.",0.6051
+Q13,How can students improve their study habits?,Semantic Search,2,Document8,"Practical learning helps students understand concepts through experiments, projects, laboratory activities, and real-world applications. It improves creativity, confidence, and technical skills.",0.4566
+Q13,How can students improve their study habits?,Semantic Search,3,document11,"Student Attendance Management
+
+Student attendance is an important part of educational institutions. Attendance records help teachers monitor student participation in classes. Regular attendance improves learning and academic performance. Digital attendance systems save time and reduce manual errors.",0.443
+Q13,How can students improve their study habits?,Semantic Search,4,document18,"Student Assessment
+
+Student assessment measures knowledge, skills and academic progress. Teachers use tests, assignments, projects and examinations to evaluate students. Assessment helps identify learning difficulties and areas that need improvement.",0.4138
+Q13,How can students improve their study habits?,Semantic Search,5,Document2,"Online learning allows students to study using computers, mobile phones, and the internet. Students can attend virtual classes, watch recorded lectures, and access digital learning materials from anywhere.",0.4067
+Q13,How can students improve their study habits?,Keyword Search,1,document19,"Teacher Feedback
+
+Teacher feedback helps students understand their strengths and weaknesses. Constructive feedback guides students to improve their academic performance. Teachers can provide feedback through comments, marks and discussions. Regular feedback encourages students to correct mistakes.",
+Q13,How can students improve their study habits?,Keyword Search,2,Document2,"Online learning allows students to study using computers, mobile phones, and the internet. Students can attend virtual classes, watch recorded lectures, and access digital learning materials from anywhere.",
+Q13,How can students improve their study habits?,Keyword Search,3,Document3,"Computer science is the study of computers, programming, algorithms, and software development. It helps students understand how computer systems work and how technology solves real-world problems.",
+Q13,How can students improve their study habits?,Keyword Search,4,document13,"Assignment Management
+
+Assignment management helps teachers create and distribute academic tasks to students. Students can submit assignments through online platforms. Teachers can review submissions, provide marks and give feedback. Digital assignment management improves communication and helps students complete their work on time.",
+Q13,How can students improve their study habits?,Keyword Search,5,document14,"Learning Management System
+
+A Learning Management System is a digital platform used to manage educational activities. Teachers can upload study materials, videos, assignments and quizzes. Students can access learning resources at any time. LMS platforms support online learning and student progress tracking.",
+Q14,Why is student assessment necessary?,Semantic Search,1,document18,"Student Assessment
+
+Student assessment measures knowledge, skills and academic progress. Teachers use tests, assignments, projects and examinations to evaluate students. Assessment helps identify learning difficulties and areas that need improvement.",0.7968
+Q14,Why is student assessment necessary?,Semantic Search,2,Document1,"Education is important for every student. It helps students develop knowledge, skills, confidence, and good values. Education prepares students for their future careers and helps them become responsible citizens.",0.5195
+Q14,Why is student assessment necessary?,Semantic Search,3,Document8,"Practical learning helps students understand concepts through experiments, projects, laboratory activities, and real-world applications. It improves creativity, confidence, and technical skills.",0.4565
+Q14,Why is student assessment necessary?,Semantic Search,4,document11,"Student Attendance Management
+
+Student attendance is an important part of educational institutions. Attendance records help teachers monitor student participation in classes. Regular attendance improves learning and academic performance. Digital attendance systems save time and reduce manual errors.",0.439
+Q14,Why is student assessment necessary?,Semantic Search,5,document16,"Study Planning
+
+Study planning helps students organize their learning activities. A study timetable allows students to divide time between different subjects. Regular revision improves memory and understanding. Students should set learning goals, take breaks and complete important tasks on time.",0.4349
+Q14,Why is student assessment necessary?,Keyword Search,1,document11,"Student Attendance Management
+
+Student attendance is an important part of educational institutions. Attendance records help teachers monitor student participation in classes. Regular attendance improves learning and academic performance. Digital attendance systems save time and reduce manual errors.",
+Q14,Why is student assessment necessary?,Keyword Search,2,document14,"Learning Management System
+
+A Learning Management System is a digital platform used to manage educational activities. Teachers can upload study materials, videos, assignments and quizzes. Students can access learning resources at any time. LMS platforms support online learning and student progress tracking.",
+Q14,Why is student assessment necessary?,Keyword Search,3,document18,"Student Assessment
+
+Student assessment measures knowledge, skills and academic progress. Teachers use tests, assignments, projects and examinations to evaluate students. Assessment helps identify learning difficulties and areas that need improvement.",
+Q14,Why is student assessment necessary?,Keyword Search,4,Document1,"Education is important for every student. It helps students develop knowledge, skills, confidence, and good values. Education prepares students for their future careers and helps them become responsible citizens.",
+Q14,Why is student assessment necessary?,Keyword Search,5,Document3,"Computer science is the study of computers, programming, algorithms, and software development. It helps students understand how computer systems work and how technology solves real-world problems.",
+Q15,Where can students find electronic study materials?,Semantic Search,1,Document2,"Online learning allows students to study using computers, mobile phones, and the internet. Students can attend virtual classes, watch recorded lectures, and access digital learning materials from anywhere.",0.5157
+Q15,Where can students find electronic study materials?,Semantic Search,2,document20,"Digital Libraries
+
+Digital libraries provide access to electronic books, research papers, journals and educational resources. Students can search and read learning materials using computers and mobile devices. Digital libraries support research and independent learning.",0.4709
+Q15,Where can students find electronic study materials?,Semantic Search,3,Document10,"Technology improves education through smart classrooms, online courses, digital libraries, educational applications, and virtual laboratories. It makes learning more accessible and interactive for students.",0.457
+Q15,Where can students find electronic study materials?,Semantic Search,4,document12,"Online Examination System
+
+Online examination systems allow students to write exams using computers or mobile devices. These systems reduce paperwork and make evaluation easier. Students can attend examinations from different locations. Online exams provide automatic result generation and secure assessment features.",0.4344
+Q15,Where can students find electronic study materials?,Semantic Search,5,Document9,"Libraries provide students with books, journals, newspapers, and digital resources. A library supports independent learning, research activities, reading habits, and academic development.",0.3943
+Q15,Where can students find electronic study materials?,Keyword Search,1,Document2,"Online learning allows students to study using computers, mobile phones, and the internet. Students can attend virtual classes, watch recorded lectures, and access digital learning materials from anywhere.",
+Q15,Where can students find electronic study materials?,Keyword Search,2,document14,"Learning Management System
+
+A Learning Management System is a digital platform used to manage educational activities. Teachers can upload study materials, videos, assignments and quizzes. Students can access learning resources at any time. LMS platforms support online learning and student progress tracking.",
+Q15,Where can students find electronic study materials?,Keyword Search,3,document15,"Group Learning
+
+Group learning is a method where students work together to understand topics and complete activities. It improves communication, teamwork and problem-solving skills. Students can share ideas, discuss concepts and learn from one another.",
+Q15,Where can students find electronic study materials?,Keyword Search,4,document20,"Digital Libraries
+
+Digital libraries provide access to electronic books, research papers, journals and educational resources. Students can search and read learning materials using computers and mobile devices. Digital libraries support research and independent learning.",
+Q15,Where can students find electronic study materials?,Keyword Search,5,Document3,"Computer science is the study of computers, programming, algorithms, and software development. It helps students understand how computer systems work and how technology solves real-world problems.",

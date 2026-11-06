@@ -1,0 +1,3 @@
+Online Examination System
+
+Online examination systems allow students to write exams using computers or mobile devices. These systems reduce paperwork and make evaluation easier. Students can attend examinations from different locations. Online exams provide automatic result generation and secure assessment features.

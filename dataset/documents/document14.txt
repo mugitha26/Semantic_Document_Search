@@ -1,0 +1,3 @@
+Learning Management System
+
+A Learning Management System is a digital platform used to manage educational activities. Teachers can upload study materials, videos, assignments and quizzes. Students can access learning resources at any time. LMS platforms support online learning and student progress tracking.
